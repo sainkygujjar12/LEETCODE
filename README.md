@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
