@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sainkygujjar12/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sainkygujjar12/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sainkygujjar12/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
