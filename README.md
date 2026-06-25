@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sainkygujjar12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sainkygujjar12/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
