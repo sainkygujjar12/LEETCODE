@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sainkygujjar12/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
