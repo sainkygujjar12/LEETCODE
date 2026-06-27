@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/sainkygujjar12/LEETCODE/tree/master/0520-detect-capital) |
+| [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/sainkygujjar12/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sainkygujjar12/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
+| [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sainkygujjar12/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sainkygujjar12/LEETCODE/tree/master/0169-majority-element) |
+| [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
