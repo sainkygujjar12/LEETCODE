@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sainkygujjar12/LEETCODE/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sainkygujjar12/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sainkygujjar12/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sainkygujjar12/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sainkygujjar12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sainkygujjar12/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sainkygujjar12/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
