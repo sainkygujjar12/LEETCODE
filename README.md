@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sainkygujjar12/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
