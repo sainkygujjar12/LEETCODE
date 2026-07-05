@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/sainkygujjar12/LEETCODE/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/sainkygujjar12/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sainkygujjar12/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sainkygujjar12/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/sainkygujjar12/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sainkygujjar12/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sainkygujjar12/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/sainkygujjar12/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
