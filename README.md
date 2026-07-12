@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/sainkygujjar12/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sainkygujjar12/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/sainkygujjar12/LEETCODE/tree/master/1544-make-the-string-great) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
