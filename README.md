@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/sainkygujjar12/LEETCODE/tree/master/1291-sequential-digits) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainkygujjar12/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Tree
