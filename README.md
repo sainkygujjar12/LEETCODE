@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/sainkygujjar12/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/sainkygujjar12/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
