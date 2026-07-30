@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sainkygujjar12/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainkygujjar12/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainkygujjar12/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
