@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainkygujjar12/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainkygujjar12/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sainkygujjar12/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sainkygujjar12/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainkygujjar12/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sainkygujjar12/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
