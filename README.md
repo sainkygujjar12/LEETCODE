@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/sainkygujjar12/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainkygujjar12/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -436,4 +439,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
