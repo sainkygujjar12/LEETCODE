@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sainkygujjar12/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sainkygujjar12/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainkygujjar12/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -464,5 +468,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
