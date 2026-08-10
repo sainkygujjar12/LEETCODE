@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainkygujjar12/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
