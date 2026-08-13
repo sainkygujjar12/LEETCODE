@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainkygujjar12/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainkygujjar12/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -510,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
