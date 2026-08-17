@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/sainkygujjar12/LEETCODE/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sainkygujjar12/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sainkygujjar12/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sainkygujjar12/LEETCODE/tree/master/1563-stone-game-v) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sainkygujjar12/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sainkygujjar12/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sainkygujjar12/LEETCODE/tree/master/1563-stone-game-v) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sainkygujjar12/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sainkygujjar12/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/sainkygujjar12/LEETCODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sainkygujjar12/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
