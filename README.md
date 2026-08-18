@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainkygujjar12/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sainkygujjar12/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sainkygujjar12/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/sainkygujjar12/LEETCODE/tree/master/1544-make-the-string-great) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sainkygujjar12/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/sainkygujjar12/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -535,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
