@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sainkygujjar12/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/sainkygujjar12/LEETCODE/tree/master/1563-stone-game-v) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sainkygujjar12/LEETCODE/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sainkygujjar12/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/sainkygujjar12/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
