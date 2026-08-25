@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sainkygujjar12/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/sainkygujjar12/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sainkygujjar12/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sainkygujjar12/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sainkygujjar12/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sainkygujjar12/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -571,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
