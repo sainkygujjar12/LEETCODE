@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/2949-count-beautiful-substrings-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sainkygujjar12/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainkygujjar12/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
