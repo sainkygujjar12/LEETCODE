@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainkygujjar12/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2272-substring-with-largest-variance](https://github.com/sainkygujjar12/LEETCODE/tree/master/2272-substring-with-largest-variance) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sainkygujjar12/LEETCODE/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sainkygujjar12/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sainkygujjar12/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sainkygujjar12/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sainkygujjar12/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sainkygujjar12/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sainkygujjar12/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sainkygujjar12/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3620-network-recovery-pathways](https://github.com/sainkygujjar12/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
