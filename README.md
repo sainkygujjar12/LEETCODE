@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sainkygujjar12/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sainkygujjar12/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/sainkygujjar12/LEETCODE/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -685,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/sainkygujjar12/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sainkygujjar12/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
