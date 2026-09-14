@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sainkygujjar12/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sainkygujjar12/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sainkygujjar12/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sainkygujjar12/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/sainkygujjar12/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
