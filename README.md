@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sainkygujjar12/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -667,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sainkygujjar12/LEETCODE/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sainkygujjar12/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
