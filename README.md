@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sainkygujjar12/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sainkygujjar12/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/sainkygujjar12/LEETCODE/tree/master/1544-make-the-string-great) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sainkygujjar12/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/sainkygujjar12/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sainkygujjar12/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sainkygujjar12/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sainkygujjar12/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
