@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sainkygujjar12/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sainkygujjar12/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sainkygujjar12/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainkygujjar12/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sainkygujjar12/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sainkygujjar12/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sainkygujjar12/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sainkygujjar12/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
