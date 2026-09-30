@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/sainkygujjar12/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sainkygujjar12/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
