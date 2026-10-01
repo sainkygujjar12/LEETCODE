@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sainkygujjar12/LEETCODE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sainkygujjar12/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sainkygujjar12/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainkygujjar12/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sainkygujjar12/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sainkygujjar12/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainkygujjar12/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sainkygujjar12/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sainkygujjar12/LEETCODE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sainkygujjar12/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sainkygujjar12/LEETCODE/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sainkygujjar12/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Bucket Sort
 |  |
 | ------- |
