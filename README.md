@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/sainkygujjar12/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/sainkygujjar12/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/sainkygujjar12/LEETCODE/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sainkygujjar12/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sainkygujjar12/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sainkygujjar12/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sainkygujjar12/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
