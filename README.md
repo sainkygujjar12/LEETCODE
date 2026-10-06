@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/sainkygujjar12/LEETCODE/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainkygujjar12/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sainkygujjar12/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/sainkygujjar12/LEETCODE/tree/master/0880-decoded-string-at-index) |
 | [0895-maximum-frequency-stack](https://github.com/sainkygujjar12/LEETCODE/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainkygujjar12/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sainkygujjar12/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/sainkygujjar12/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainkygujjar12/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/sainkygujjar12/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sainkygujjar12/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainkygujjar12/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sainkygujjar12/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
