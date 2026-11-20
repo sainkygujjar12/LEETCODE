@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sainkygujjar12/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/sainkygujjar12/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/sainkygujjar12/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sainkygujjar12/LEETCODE/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/sainkygujjar12/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sainkygujjar12/LEETCODE/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sainkygujjar12/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sainkygujjar12/LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sainkygujjar12/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/sainkygujjar12/LEETCODE/tree/master/0763-partition-labels) |
