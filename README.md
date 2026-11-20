@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/0112-path-sum) |
 | [0472-concatenated-words](https://github.com/sainkygujjar12/LEETCODE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/sainkygujjar12/LEETCODE/tree/master/0802-find-eventual-safe-states) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sainkygujjar12/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sainkygujjar12/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sainkygujjar12/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sainkygujjar12/LEETCODE/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/sainkygujjar12/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0802-find-eventual-safe-states](https://github.com/sainkygujjar12/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1096-brace-expansion-ii](https://github.com/sainkygujjar12/LEETCODE/tree/master/1096-brace-expansion-ii) |
